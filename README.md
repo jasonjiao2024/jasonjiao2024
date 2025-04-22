@@ -27,9 +27,15 @@ Sunlands Education IPO: Played a key role in a successful IPO, contributing to a
 LinkedIn: www.linkedin.com/in/jason-jiao-2972141a4
 
 ## 📚 Publications & Contributions
-"Cognition and Brain Teaching Technology" — Widely acclaimed book influencing educational leaders and researchers.
 
-Book Translation: “Mastering the Dynamics of Innovation” and “How Breakthroughs Happen” – Bringing global insights to Chinese audiences.
+- Jiao D (2025) Advancing personalized digital therapeutics: integrating music therapy, brainwave entrainment methods, and AI-driven biofeedback. Front. Digit. Health 7:1552396. doi: 10.3389/fdgth.2025.1552396
+- 
+- Jiao D (2025) From hypoxic pockets to daily routines: linking brain oxygenation and cognitive resilience. Front. Aging Neurosci. 17:1534198. doi: 10.3389/fnagi.2025.1534198
+
+- "Cognition and Brain Teaching Technology" — Widely acclaimed book influencing educational leaders and researchers.
+
+- Book Translation: “Mastering the Dynamics of Innovation” and “How Breakthroughs Happen” – Bringing global insights to Chinese audiences.
+
 
 ## ⚡ Fun Fact
 I’m an avid adventurer who loves diving, flying, and exploring new terrains. When I’m not pushing the boundaries of research, you can find me completing half-marathons or enjoying time with my furry friends.
