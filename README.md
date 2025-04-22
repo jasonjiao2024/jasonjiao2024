@@ -29,7 +29,7 @@ LinkedIn: www.linkedin.com/in/jason-jiao-2972141a4
 ## 📚 Publications & Contributions
 
 - Jiao D (2025) Advancing personalized digital therapeutics: integrating music therapy, brainwave entrainment methods, and AI-driven biofeedback. Front. Digit. Health 7:1552396. doi: 10.3389/fdgth.2025.1552396
-- 
+  
 - Jiao D (2025) From hypoxic pockets to daily routines: linking brain oxygenation and cognitive resilience. Front. Aging Neurosci. 17:1534198. doi: 10.3389/fnagi.2025.1534198
 
 - "Cognition and Brain Teaching Technology" — Widely acclaimed book influencing educational leaders and researchers.
