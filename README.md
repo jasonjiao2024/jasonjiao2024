@@ -14,18 +14,6 @@ Brain-Computer Interface (BCI) for Neurotechnology Integration in educational se
 
 Data-Driven Decision Making in digital transformation and marketing.
 
-## 💼 Professional Background
-With a proven track record of success in e-commerce, education, and neuroscience integration, I have spearheaded transformative projects such as:
-
-11.11 Shopping Festival at Tmall: Generated $500 million in revenue and set a global benchmark for e-commerce strategy.
-
-LEMOEDU: Founded an EdTech startup leveraging neuroscience to address learning deficits, impacting over 200,000 professionals.
-
-Sunlands Education IPO: Played a key role in a successful IPO, contributing to a $500 million revenue surge.
-
-## 📫 Get in Touch
-LinkedIn: www.linkedin.com/in/jason-jiao-2972141a4
-
 ## 📚 Publications & Contributions
 
 - Jiao D (2025) Advancing personalized digital therapeutics: integrating music therapy, brainwave entrainment methods, and AI-driven biofeedback. Front. Digit. Health 7:1552396. doi: 10.3389/fdgth.2025.1552396
@@ -35,10 +23,21 @@ LinkedIn: www.linkedin.com/in/jason-jiao-2972141a4
 - "Cognition and Brain Teaching Technology" — Widely acclaimed book influencing educational leaders and researchers.
 
 - Book Translation: “Mastering the Dynamics of Innovation” and “How Breakthroughs Happen” – Bringing global insights to Chinese audiences.
+- 
+## 💼 Professional Background
+With a proven track record of success in e-commerce, education, and neuroscience integration, I have spearheaded transformative projects such as:
 
+11.11 Shopping Festival at Tmall: Generated $500 million in revenue and set a global benchmark for e-commerce strategy.
+
+LEMOEDU: Founded an EdTech startup leveraging neuroscience to address learning deficits, impacting over 200,000 professionals.
+
+Sunlands Education IPO: Played a key role in a successful IPO, contributing to a $500 million revenue surge.
 
 ## ⚡ Fun Fact
 I’m an avid adventurer who loves diving, flying, and exploring new terrains. When I’m not pushing the boundaries of research, you can find me completing half-marathons or enjoying time with my furry friends.
+
+## 📫 Get in Touch
+LinkedIn: www.linkedin.com/in/jason-jiao-2972141a4
 
 <!--
 **jasonjiao2024/jasonjiao2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
