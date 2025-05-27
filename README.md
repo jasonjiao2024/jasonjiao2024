@@ -25,7 +25,7 @@ Data-Driven Decision Making in digital transformation and marketing.
 - "Cognition and Brain Teaching Technology" — Widely acclaimed book influencing educational leaders and researchers.
 
 - Book Translation: “Mastering the Dynamics of Innovation” and “How Breakthroughs Happen” – Bringing global insights to Chinese audiences.
-- 
+  
 ## 💼 Professional Background
 With a proven track record of success in e-commerce, education, and neuroscience integration, I have spearheaded transformative projects such as:
 
