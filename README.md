@@ -16,7 +16,7 @@ Data-Driven Decision Making in digital transformation and marketing.
 
 ## 📚 Publications & Contributions
 
-- Jiao, D. (2025). AI-enhanced digital therapeutics for cognitive impairment: Integrating mobile applications, virtual reality, and wearable devices. Discover Artificial Intelligence, 5, Article 69. https://doi.org/10.1007/s44163-025-00325-6
+- Jiao, D. (2025). AI-enhanced digital therapeutics for cognitive impairment: Integrating mobile applications, virtual reality, and wearable devices. Discover Artificial Intelligence, 5, Article 69. doi: 10.1007/s44163-025-00325-6
   
 - Jiao D (2025) Advancing personalized digital therapeutics: integrating music therapy, brainwave entrainment methods, and AI-driven biofeedback. Front. Digit. Health 7:1552396. doi: 10.3389/fdgth.2025.1552396
   
