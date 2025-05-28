@@ -29,11 +29,9 @@ Data-Driven Decision Making in digital transformation and marketing.
 ## 💼 Professional Background
 With a proven track record of success in e-commerce, education, and neuroscience integration, I have spearheaded transformative projects such as:
 
-11.11 Shopping Festival at Tmall: Generated $500 million in revenue and set a global benchmark for e-commerce strategy.
-
 LEMOEDU: Founded an EdTech startup leveraging neuroscience to address learning deficits, impacting over 200,000 professionals.
 
-Sunlands Education IPO: Played a key role in a successful IPO, contributing to a $500 million revenue surge.
+Sunlands Education IPO: Played a key role in a successful IPO.
 
 ## ⚡ Fun Fact
 I’m an avid adventurer who loves diving, flying, and exploring new terrains. When I’m not pushing the boundaries of research, you can find me completing half-marathons or enjoying time with my furry friends.
