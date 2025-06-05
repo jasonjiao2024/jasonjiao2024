@@ -5,14 +5,12 @@ I'm Jason Jiao, a multidisciplinary leader with over 15 years of experience, spe
 ## 🔭 What I’m Currently Working On...
 Doctorate Dissertation: focusing on how neurotechnology can be ethically and practically integrated to enhance human intelligence in educational systems. This research explores the role of neurotechnology in educational leadership to ensure that human intelligence remains central in AI-enhanced learning environments.
 
-Cutting-edge AI and Brain-Computer Interface (BCI) Applications: Exploring the intersection of AI, neurotechnology, and cognitive science to enhance human intelligence through BCI and neurotech innovations. My goal is to develop transformative solutions that not only enhance cognitive abilities but also optimize AI algorithms by learning from the brain’s own mechanisms—leveraging the understanding of neural dynamics to design smarter, more adaptive AI systems.
+AI Empowered Digital Therapeutics Research: Developing breakthrough AI-enhanced therapeutic solutions that integrate real-time biofeedback, multi-modal stimulation, and personalized treatment protocols for cognitive enhancement and neurological rehabilitation. My research focuses on creating patent-pending digital therapeutics platforms that combine EEG monitoring, adaptive audio-visual therapy, and machine learning algorithms to deliver personalized cognitive interventions. 
 
 ## 🌟 Research Interests
-Cognitive Enhancement through 40Hz Gamma Oscillations in Alzheimer's research.
+AI-Enhanced Digital Therapeutics: Developing personalized therapeutic protocols using real-time EEG analysis, adaptive biofeedback, and machine learning algorithms for cognitive enhancement and neurological rehabilitation.
 
-Brain-Computer Interface (BCI) for Neurotechnology Integration in educational settings.
-
-Data-Driven Decision Making in digital transformation and marketing.
+New Algorithms & Models: Developing new concepts of AI models via biological inspiration, drawing from neural dynamics and brain mechanisms to create more adaptive, efficient, and human-centered artificial intelligence systems.
 
 ## 📚 Publications & Contributions
 
@@ -27,17 +25,11 @@ Data-Driven Decision Making in digital transformation and marketing.
 - Book Translation: “Mastering the Dynamics of Innovation” and “How Breakthroughs Happen” – Bringing global insights to Chinese audiences.
   
 ## 💼 Professional Background
-With a proven track record of success in e-commerce, education, and neuroscience integration, I have spearheaded transformative projects such as:
-
-LEMOEDU: Founded an EdTech startup leveraging neuroscience to address learning deficits, impacting over 200,000 professionals.
-
-Sunlands Education IPO: Played a key role in a successful IPO.
+LinkedIn: www.linkedin.com/in/jason-jiao-2972141a4
 
 ## ⚡ Fun Fact
 I’m an avid adventurer who loves diving, flying, and exploring new terrains. When I’m not pushing the boundaries of research, you can find me completing half-marathons or enjoying time with my furry friends.
 
-## 📫 Get in Touch
-LinkedIn: www.linkedin.com/in/jason-jiao-2972141a4
 
 <!--
 **jasonjiao2024/jasonjiao2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
