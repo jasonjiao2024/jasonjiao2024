@@ -13,6 +13,7 @@ AI-Enhanced Digital Therapeutics: Developing personalized therapeutic protocols 
 New Algorithms & Models: Developing new concepts of AI models via biological inspiration, drawing from neural dynamics and brain mechanisms to create more adaptive, efficient, and human-centered artificial intelligence systems.
 
 ## 📚 Publications & Contributions
+- Jiao, D. (2025). Leveraging neurotechnology for neurodivergent education: a narrative review. Learning: Research and Practice, 1–25. https://doi.org/10.1080/23735082.2025.2517052
 
 - Jiao, D. (2025). AI-enhanced digital therapeutics for cognitive impairment: Integrating mobile applications, virtual reality, and wearable devices. Discover Artificial Intelligence, 5, Article 69. doi: 10.1007/s44163-025-00325-6
   
