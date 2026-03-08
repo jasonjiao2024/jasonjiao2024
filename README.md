@@ -8,9 +8,9 @@ Doctorate Dissertation: focusing on how neurotechnology can be ethically and pra
 AI Empowered Digital Therapeutics Research: Developing breakthrough AI-enhanced therapeutic solutions that integrate real-time biofeedback, multi-modal stimulation, and personalized treatment protocols for cognitive enhancement and neurological rehabilitation. My research focuses on creating patent-pending digital therapeutics platforms that combine EEG monitoring, adaptive audio-visual therapy, and machine learning algorithms to deliver personalized cognitive interventions. 
 
 ## 🌟 Research Interests
-AI-Enhanced Digital Therapeutics: Developing personalized therapeutic protocols using real-time EEG analysis, adaptive biofeedback, and machine learning algorithms for cognitive enhancement and neurological rehabilitation.
+1. AI-Enhanced Digital Therapeutics: Developing personalized therapeutic protocols using real-time EEG analysis, adaptive biofeedback, and machine learning algorithms for cognitive enhancement and neurological rehabilitation.
 
-New Algorithms & Models: Developing new concepts of AI models via biological inspiration, drawing from neural dynamics and brain mechanisms to create more adaptive, efficient, and human-centered artificial intelligence systems.
+2. New Algorithms & Models: Developing new concepts of AI models via biological inspiration, drawing from neural dynamics and brain mechanisms to create more adaptive, efficient, and human-centered artificial intelligence systems.
 
 ## 📚 Publications & Contributions
 - Jiao, D. (2025). Elliptic cortical networks: A mathematically constrained architecture for biologically-inspired intelligence. Neurocomputing, 658, 131802. doi: 10.1016/j.neucom.2025.131802
