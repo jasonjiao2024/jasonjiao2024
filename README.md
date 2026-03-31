@@ -2,11 +2,6 @@
 
 I'm Jiao, a multidisciplinary leader with over 15 years of experience, specializing in digital transformation, neuroscience, and technology innovation. My work bridges the gap between cutting-edge research and real-world applications, driving transformative growth across diverse industries.
 
-## 🔭 What I’m Currently Working On...
-Doctorate Dissertation: focusing on how neurotechnology can be ethically and practically integrated to enhance human intelligence in educational systems. This research explores the role of neurotechnology in educational leadership to ensure that human intelligence remains central in AI-enhanced learning environments.
-
-AI Empowered Digital Therapeutics Research: Developing breakthrough AI-enhanced therapeutic solutions that integrate real-time biofeedback, multi-modal stimulation, and personalized treatment protocols for cognitive enhancement and neurological rehabilitation. My research focuses on creating patent-pending digital therapeutics platforms that combine EEG monitoring, adaptive audio-visual therapy, and machine learning algorithms to deliver personalized cognitive interventions. 
-
 ## 🌟 Research Interests
 1. AI-Enhanced Digital Therapeutics: Developing personalized therapeutic protocols using real-time EEG analysis, adaptive biofeedback, and machine learning algorithms for cognitive enhancement and neurological rehabilitation.
 
