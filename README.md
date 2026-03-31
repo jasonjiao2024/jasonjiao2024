@@ -5,7 +5,7 @@ I'm Jiao, a multidisciplinary leader with over 15 years of experience, specializ
 ## 🌟 Research Interests
 1. AI-Enhanced Digital Therapeutics: Developing personalized therapeutic protocols using real-time EEG analysis, adaptive biofeedback, and machine learning algorithms for cognitive enhancement and neurological rehabilitation.
 
-2. New Algorithms & Models: Developing new concepts of AI models via biological inspiration, drawing from neural dynamics and brain mechanisms to create more adaptive, efficient, and human-centered artificial intelligence systems.
+2. New Algorithms & Models: Developing new concepts of AI models via biological inspiration, drawing from neural dynamics and brain mechanisms to create more adaptive, efficient, and human-centered artificial intelligence systems (NeuroAI).
 
 ## 📚 Publications & Contributions
 - Jiao, D. (2025). Elliptic cortical networks: A mathematically constrained architecture for biologically-inspired intelligence. Neurocomputing, 658, 131802. doi: 10.1016/j.neucom.2025.131802
