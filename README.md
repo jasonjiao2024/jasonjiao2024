@@ -20,7 +20,7 @@ I'm Jiao, a multidisciplinary leader with over 15 years of experience, specializ
 
 - "Cognition and Brain Teaching Technology" — Widely acclaimed book influencing educational leaders and researchers.
 
-- Book Translation: “Mastering the Dynamics of Innovation” and “How Breakthroughs Happen” – Bringing global insights to Chinese audiences.
+- Book Translation: “Mastering the Dynamics of Innovation”, “How Breakthroughs Happen” and "Neuroscience of You" – Bringing global insights to Chinese audiences.
   
 ## 💼 Professional Background
 LinkedIn: www.linkedin.com/in/jason-jiao-2972141a4
